@@ -1,6 +1,8 @@
 Documentation Build Instructions
 ################################
 
+test
+
 The `website documentation`_ for Clear Linux\* OS for Intel Architecture
 should be written in :abbr:`ReStructuredText (ReST)` AKA ``.rst``, which
 makes it easy to build parsable, command-line readable, indexed, and
